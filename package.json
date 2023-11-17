@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/goit-js-team-project-group3/",
+    "build": "vite build --base=/js_92_andrewbal93/",
     "preview": "vite preview"
   },
   "devDependencies": {
